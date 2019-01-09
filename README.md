@@ -1,0 +1,9 @@
+# Praktikum4Aghna
+Latihan 1
+![alt text](https://github.com/aghnaz/Praktikum4Aghna/blob/master/Latihan1.JPG)
+Latihan 2
+![alt text](https://github.com/aghnaz/Praktikum4Aghna/blob/master/Latihan2.JPG)
+Latihan 3
+![alt text](https://github.com/aghnaz/Praktikum4Aghna/blob/master/Latihan3.JPG)
+Latihan 4
+![alt text](https://github.com/aghnaz/Praktikum4Aghna/blob/master/Latihan4.JPG)
